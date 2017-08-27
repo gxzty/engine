@@ -1,0 +1,10 @@
+/home/pi/ztory/build/CMakeFiles/edit_cache.dir
+/home/pi/ztory/build/CMakeFiles/rebuild_cache.dir
+/home/pi/ztory/build/Framework/CMakeFiles/edit_cache.dir
+/home/pi/ztory/build/Framework/CMakeFiles/rebuild_cache.dir
+/home/pi/ztory/build/Framework/Common/CMakeFiles/edit_cache.dir
+/home/pi/ztory/build/Framework/Common/CMakeFiles/rebuild_cache.dir
+/home/pi/ztory/build/Framework/Common/CMakeFiles/Common.dir
+/home/pi/ztory/build/Empty/CMakeFiles/edit_cache.dir
+/home/pi/ztory/build/Empty/CMakeFiles/rebuild_cache.dir
+/home/pi/ztory/build/Empty/CMakeFiles/Empty.dir

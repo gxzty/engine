@@ -13,5 +13,57 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\Empty">
+      <UniqueIdentifier>{64be3a62-9d90-4f29-8a20-5e363b4ce4ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Framework">
+      <UniqueIdentifier>{36acab35-fc54-4239-8c2e-2ca3a53c7419}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Framework\Common">
+      <UniqueIdentifier>{50b091b4-2b4b-4b82-b27e-6f39b4c282d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Framework\Interface">
+      <UniqueIdentifier>{f9c55f02-f2d5-417b-b46f-5523749a8cc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Platform">
+      <UniqueIdentifier>{dc438528-5d4b-467e-aee6-2a4cb1551388}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Platform\Windows">
+      <UniqueIdentifier>{757f69c1-1657-4785-9c9e-3a14be92f1ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Platform\Linux">
+      <UniqueIdentifier>{99551184-6c05-4ab8-8cbb-3af2d89b095e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Empty\EmptyApplication.cpp">
+      <Filter>源文件\Empty</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Framework\Common\main.cpp">
+      <Filter>源文件\Framework\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Framework\Common\BaseApplication.cpp">
+      <Filter>源文件\Framework\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Platform\Windows\helloworld_win.c">
+      <Filter>源文件\Platform\Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="helloengine_xcb.c">
+      <Filter>源文件\Platform\Linux</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Framework\Common\BaseApplication.hpp">
+      <Filter>源文件\Framework\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Framework\Interface\IApplication.hpp">
+      <Filter>源文件\Framework\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Framework\Interface\Interface.hpp">
+      <Filter>源文件\Framework\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Framework\Interface\IRuntimeModule.hpp">
+      <Filter>源文件\Framework\Interface</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

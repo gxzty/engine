@@ -15,6 +15,7 @@
     <ClCompile Include="..\Framework\Common\BaseApplication.cpp" />
     <ClCompile Include="..\Framework\Common\main.cpp" />
     <ClCompile Include="..\Platform\Windows\helloengine_d2d.cpp" />
+    <ClCompile Include="..\Platform\Windows\helloengine_d3d.cpp" />
     <ClCompile Include="..\Platform\Windows\helloworld_win.c" />
     <ClCompile Include="helloengine_xcb.c" />
   </ItemGroup>

@@ -54,6 +54,9 @@
     <ClCompile Include="..\Platform\Windows\helloengine_d2d.cpp">
       <Filter>源文件\Platform\Windows</Filter>
     </ClCompile>
+    <ClCompile Include="..\Platform\Windows\helloengine_d3d.cpp">
+      <Filter>源文件\Platform\Windows</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Framework\Common\BaseApplication.hpp">

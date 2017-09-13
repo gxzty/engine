@@ -1,0 +1,27 @@
+ 312416 spatel                9月 03 00:32 ./
+ 282494 klimek             50   2016-09-27 .arcconfig
+ 202641 ace2001a           20   2014-03-02 .clang-format
+ 281370 aizatsky          769   2016-09-14 .clang-tidy
+ 299808 gornisha         2283 4月 08 08:16 .gitignore
+ 312043 rnk             37651 8月 30 05:44 CMakeLists.txt
+ 311667 petecoup         4608 8月 24 23:40 CODE_OWNERS.TXT
+ 306932 tejohnso        11252 7月 01 11:24 CREDITS.TXT
+ 291782 hans             3192   2017-01-13 LICENSE.TXT
+ 191835 chandler          744   2013-10-02 LLVMBuild.txt
+ 311143 jbhateja          665 8月 18 10:39 README.txt
+ 308006 rengolin          970 7月 14 16:33 RELEASE_TESTERS.TXT
+ 309448 adrian                7月 29 06:44 bindings/
+ 312389 eugene                9月 02 07:12 cmake/
+ 258861 cbienema          573   2016-01-27 configure
+ 312236 asb                   8月 31 20:34 docs/
+ 310947 lhames                8月 16 03:20 examples/
+ 312383 eugeneze              9月 02 05:37 include/
+ 312416 spatel                9月 03 00:32 lib/
+ 244484 jyknight         1866   2015-08-11 llvm.spec.in
+ 302753 ericwf                5月 11 09:44 projects/
+ 239612 gbedwell                2015-06-12 resources/
+ 312405 phosek                9月 02 10:28 runtimes/
+ 312413 spatel                9月 02 22:38 test/
+ 312409 alexshap              9月 02 16:19 tools/
+ 312238 d0k                   8月 31 20:50 unittests/
+ 312288 rnk                   9月 01 05:56 utils/
